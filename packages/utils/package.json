@@ -1,6 +1,6 @@
 {
   "name": "@infofe-cli/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "infofe-cli utils",
   "author": "shiwen <shiwen@4399.com>",
   "homepage": "",
@@ -16,5 +16,8 @@
   "scripts": {
     "test": "echo \"Run testing from utils\""
   },
-  "gitHead": "46e52720d719c45504df03c24ab68c1c6eced633"
+  "gitHead": "da9abfa0c009eb19a329c3a38dc4245019a2dcd9",
+  "publishConfig": {
+    "access": "public"
+  }
 }
