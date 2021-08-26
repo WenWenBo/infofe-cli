@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@infofe-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "46e52720d719c45504df03c24ab68c1c6eced633"
 }

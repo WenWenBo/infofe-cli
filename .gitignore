@@ -1,6 +1,7 @@
 .vscode
 .idea
 node_modules
+lerna-debug.log
 
 # 子包中的node_modules
 packages/**/node_modules
