@@ -1,6 +1,6 @@
 {
   "name": "@infofe-cli/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "infofe-cli core",
   "author": "shiwen <shiwen@4399.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@infofe-cli/utils": "^1.0.2"
+    "@infofe-cli/utils": "^1.0.4"
   },
   "gitHead": "da9abfa0c009eb19a329c3a38dc4245019a2dcd9",
   "publishConfig": {
