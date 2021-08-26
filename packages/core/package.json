@@ -1,6 +1,6 @@
 {
   "name": "@infofe-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "infofe-cli core",
   "author": "shiwen <shiwen@4399.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@infofe-cli/utils": "^1.0.0"
+    "@infofe-cli/utils": "^1.0.1"
   }
 }
